@@ -1,9 +1,10 @@
 [
 {
-    "titulo": "Elvis Is Back",
-    "artista": "Elvis Presley",
-    "portada": "images/elvisisback.jpeg",
-    "year": 1960,
-    "genero": "Rock & Roll"
+    "titulo": "",
+    "artista": "",
+    "portada": "",
+    "year": ,
+    "genero": ""
 }
+
 ]
