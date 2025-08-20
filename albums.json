@@ -5,8 +5,16 @@
         "portada": "images/001.jpeg",
         "year": 1960,
         "genero": "Rock and Roll"
+    },
+    {
+        "titulo": "Sincerely, Brenda Lee",
+        "artista": "Brenda Lee",
+        "portada": "images/002.jpeg",
+        "year": 1962,
+        "genero": "Pop"
     }
 ]
+
 
 
 
