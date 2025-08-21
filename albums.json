@@ -12,8 +12,16 @@
         "portada": "images/002.jpeg",
         "year": 1962,
         "genero": "Pop"
+    },
+    {
+        "titulo": "Please Please Me",
+        "artista": "The Beatles",
+        "portada": "images/003.jpeg",
+        "year": 1963,
+        "genero": "Merseybeat"
     }
 ]
+
 
 
 
