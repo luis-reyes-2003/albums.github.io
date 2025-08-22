@@ -19,8 +19,16 @@
         "portada": "images/003.jpeg",
         "year": 1963,
         "genero": "Merseybeat"
+    },
+    {
+        "titulo": "With The Beatles",
+        "artista": "The Beatles",
+        "portada": "images/004.jpeg",
+        "year": 1963,
+        "genero": "Merseybeat"
     }
 ]
+
 
 
 
