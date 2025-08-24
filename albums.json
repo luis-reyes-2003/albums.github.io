@@ -26,8 +26,16 @@
         "portada": "images/004.jpeg",
         "year": 1963,
         "genero": "Merseybeat"
+    },
+    {
+        "titulo": "A Hard Day's Night",
+        "artista": "The Beatles",
+        "portada": "images/005.jpeg",
+        "year": 1964,
+        "genero": "Merseybeat"
     }
 ]
+
 
 
 
