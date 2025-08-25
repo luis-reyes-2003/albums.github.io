@@ -40,8 +40,16 @@
         "portada": "images/006.jpeg",
         "year": 1964,
         "genero": "Blues Rock"
+    },
+    {
+        "titulo": "Beatles For Sale",
+        "artista": "The Beatles",
+        "portada": "images/007.jpeg",
+        "year": 1964,
+        "genero": "Merseybeat"
     }
 ]
+
 
 
 
