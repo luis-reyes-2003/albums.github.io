@@ -47,8 +47,16 @@
         "portada": "images/007.jpeg",
         "year": 1964,
         "genero": "Merseybeat"
+    },
+    {
+        "titulo": "The Rolling Stones No. 2",
+        "artista": "The Rolling Stones",
+        "portada": "images/008.jpeg",
+        "year": 1965,
+        "genero": "Blues Rock"
     }
 ]
+
 
 
 
