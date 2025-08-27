@@ -54,8 +54,16 @@
         "portada": "images/008.jpeg",
         "year": 1965,
         "genero": "Blues Rock"
+    },
+    {
+        "titulo": "Help!",
+        "artista": "The Beatles",
+        "portada": "images/009.jpeg",
+        "year": 1965,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
 
