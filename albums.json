@@ -61,8 +61,16 @@
         "portada": "images/009.jpeg",
         "year": 1965,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Out of Our Heads",
+        "artista": "The Rolling Stones",
+        "portada": "images/010.jpeg",
+        "year": 1965,
+        "genero": "Blues Rock"
     }
 ]
+
 
 
 
