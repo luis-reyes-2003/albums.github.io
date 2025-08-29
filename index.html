@@ -11,75 +11,110 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <!-- Header -->
   <header>
-    <nav class="container nav">
-      <a href="#inicio" class="brand">
-        <span class="logo"></span>
-        <span>Mis álbumes favoritos</span>
-      </a>
+    <nav class="nav container">
+      <div class="brand">
+        <div class="logo"></div>
+        <span>Mis Reseñas Musicales</span>
+      </div>
       <div class="menu">
-        <a href="#albums">Álbumes</a>
-        <a href="#sobre-mi">Sobre mí</a>
+        <a href="#albums" class="btn">Álbumes</a>
+        <a href="#about" class="btn">Sobre mí</a>
       </div>
     </nav>
   </header>
 
-  <!-- Hero -->
-  <main id="inicio" class="container">
-    <h1>Mis 500 álbumes favoritos</h1>
-    <p class="lead">Aquí subiré todos mis álbumes favoritos, espero que compartamos gustos similares o bien, logres descubrir cosas nuevas.</p>
-    <a class="btn btn-primary" href="#albums">Mi top</a>
+  <main class="container">
+    <section id="intro">
+      <h1>Bienvenido a mi espacio personal</h1>
+      <p class="lead">Aquí subiré todos mis álbumes favoritos, espero que compartamos gustos similares o bien, logres descubrir cosas nuevas.</p>
+    </section>
+
+    <section id="albums">
+      <h2>Mis Álbumes Favoritos</h2>
+      <div id="albumList" class="album-list"></div>
+      <div class="pagination">
+        <button id="prevPage" class="btn">Anterior</button>
+        <span id="pageInfo"></span>
+        <button id="nextPage" class="btn">Siguiente</button>
+      </div>
+    </section>
+
+    <section id="sobre-mi" class="container">
+      <h2>About me</h2>
+      <p>"I'm only a human"</p>
+    </section>
   </main>
 
-  <!-- Álbumes -->
-  <section id="albums" class="container">
-    <h2>Mis Álbumes Favoritos</h2>
-    <div class="album-list" id="albums">
-    <!-- Aquí se insertarán los álbumes dinámicamente -->
-    </div>
-  </section>
-
-  <!-- Sobre mí -->
-  <section id="sobre-mi" class="container">
-    <h2>About me</h2>
-    <p>"I'm only a human"</p>
-  </section>
-
-  <!-- Footer -->
   <footer>
-    <div class="container">&copy; <span id="year"></span> Mi top</div>
+    <p>© 2025 Mi Top 500.</p>
   </footer>
 
   <script>
-    document.getElementById('year').textContent = new Date().getFullYear();
-  </script>
-  <script>
-  async function cargarAlbums() {
-    try {
-      const res = await fetch('albums.json');
-      const albums = await res.json();
-      const contenedor = document.getElementById('albums');
+    const albumList = document.getElementById("albumList");
+    const prevBtn = document.getElementById("prevPage");
+    const nextBtn = document.getElementById("nextPage");
+    const pageInfo = document.getElementById("pageInfo");
 
-      contenedor.innerHTML = albums.map((album, i) => `
-        <article class="album">
-          <h2><span class="album-numero">#${i + 1} - ${album.titulo} (${album.year})</span></h2>
+    let albums = [];
+    let currentPage = 1;
+    const albumsPerPage = 6; // cantidad de álbumes por página
+
+    async function loadAlbums() {
+      try {
+        const response = await fetch("albums.json");
+        albums = await response.json();
+        renderPage();
+      } catch (error) {
+        albumList.innerHTML = "<p>Error al cargar los álbumes.</p>";
+      }
+    }
+
+    function renderPage() {
+      albumList.innerHTML = "";
+      const start = (currentPage - 1) * albumsPerPage;
+      const end = start + albumsPerPage;
+      const pageAlbums = albums.slice(start, end);
+
+      pageAlbums.forEach((album, i) => {
+        const globalIndex = start + i; // mantiene numeración continua entre páginas
+        const yearText = album.year ? ` (${album.year})` : "";
+
+        const albumDiv = document.createElement("div");
+        albumDiv.className = "album";
+        albumDiv.innerHTML = `
+          <h2><span class="album-numero">#${globalIndex + 1} - ${album.titulo}${yearText}</span></h2>
           <img src="${album.portada}" alt="Portada de ${album.titulo}">
-          <h3>${album.titulo}</h3>
           <p>${album.artista}</p>
           <p>${album.year}</p>
           <p>${album.genero}</p>
-        </article>
-        <p></p>
-      `).join('');
-    } catch (error) {
-      console.error("Error al cargar los álbumes:", error);
-    }
-  }
+        `;
+        albumList.appendChild(albumDiv);
+      });
 
-    cargarAlbums();
+      const totalPages = Math.ceil(albums.length / albumsPerPage);
+      pageInfo.textContent = `Página ${currentPage} de ${totalPages}`;
+
+      prevBtn.disabled = currentPage === 1;
+      nextBtn.disabled = currentPage === totalPages;
+    }
+
+    prevBtn.addEventListener("click", () => {
+      if (currentPage > 1) {
+        currentPage--;
+        renderPage();
+      }
+    });
+
+    nextBtn.addEventListener("click", () => {
+      const totalPages = Math.ceil(albums.length / albumsPerPage);
+      if (currentPage < totalPages) {
+        currentPage++;
+        renderPage();
+      }
+    });
+
+    loadAlbums();
   </script>
 </body>
-
 </html>
-
