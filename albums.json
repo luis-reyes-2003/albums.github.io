@@ -68,20 +68,12 @@
         "portada": "images/010.jpeg",
         "year": 1965,
         "genero": "Blues Rock"
+    },
+    {
+        "titulo": "My Generation",
+        "artista": "The Who",
+        "portada": "images/011.jpeg",
+        "year": 1965,
+        "genero": "Beat"
     }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
