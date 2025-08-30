@@ -75,5 +75,13 @@
         "portada": "images/011.jpeg",
         "year": 1965,
         "genero": "Beat"
+    },
+    {
+        "titulo": "Rubber Soul",
+        "artista": "The Beatles",
+        "portada": "images/012.jpeg",
+        "year": 1965,
+        "genero": "Pop Rock"
     }
 ]
+
