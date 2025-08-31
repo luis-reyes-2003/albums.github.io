@@ -82,6 +82,14 @@
         "portada": "images/012.jpeg",
         "year": 1965,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Aftermath",
+        "artista": "The Rolling Stones",
+        "portada": "images/013.jpeg",
+        "year": 1966,
+        "genero": "Blues Rock"
     }
 ]
+
 
