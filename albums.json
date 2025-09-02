@@ -96,8 +96,16 @@
         "portada": "images/014.jpeg",
         "year": 1966,
         "genero": "Baroque Pop"
+    },
+    {
+        "titulo": "Strangers In the Night",
+        "artista": "Frank Sinatra",
+        "portada": "images/015.jpeg",
+        "year": 1966,
+        "genero": "Vocal Jazz"
     }
 ]
+
 
 
 
