@@ -103,8 +103,16 @@
         "portada": "images/015.jpeg",
         "year": 1966,
         "genero": "Vocal Jazz"
+    },
+    {
+        "titulo": "Revolver",
+        "artista": "The Beatles",
+        "portada": "images/016.jpeg",
+        "year": 1966,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
 
