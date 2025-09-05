@@ -117,11 +117,12 @@
         "portada": "images/017.jpeg",
         "year": 1967,
         "genero": "Psychedelic Rock"
+    },
+    {
+        "titulo": "Between the Buttons",
+        "artista": "The Rolling Stones",
+        "portada": "images/018.jpeg",
+        "year": 1967,
+        "genero": "Pop Rock"
     }
 ]
-
-
-
-
-
-
