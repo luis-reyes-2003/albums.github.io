@@ -110,8 +110,16 @@
         "portada": "images/016.jpeg",
         "year": 1966,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "The Doors",
+        "artista": "The Doors",
+        "portada": "images/017.jpeg",
+        "year": 1967,
+        "genero": "Psychedelic Rock"
     }
 ]
+
 
 
 
