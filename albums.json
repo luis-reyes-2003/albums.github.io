@@ -131,6 +131,14 @@
         "portada": "images/019.jpeg",
         "year": 1967,
         "genero": "Art Rock"
+    },
+    {
+        "titulo": "Are You Experienced",
+        "artista": "The Jimi Hendrix Experience",
+        "portada": "images/020.jpeg",
+        "year": 1967,
+        "genero": "Blues Rock"
     }
 ]
+
 
