@@ -124,5 +124,13 @@
         "portada": "images/018.jpeg",
         "year": 1967,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "The Velvet Underground & Nico",
+        "artista": "The Velvet Underground/Nico",
+        "portada": "images/019.jpeg",
+        "year": 1967,
+        "genero": "Art Rock"
     }
 ]
+
