@@ -140,13 +140,14 @@
         "genero": "Blues Rock"
     },
     {
-        "titulo": "Sgt. Peppers Lonely Hearts Club Band",
+        "titulo": "Sgt. Pepper's Lonely Hearts Club Band",
         "artista": "The Beatles",
         "portada": "images/021.jpeg",
         "year": 1967,
         "genero": "Psychedelic Pop"
     }
 ]
+
 
 
 
