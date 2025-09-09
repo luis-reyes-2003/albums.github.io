@@ -145,9 +145,12 @@
         "portada": "images/021.jpeg",
         "year": 1967,
         "genero": "Psychedelic Pop"
+    },
+    {
+        "titulo": "Magical Mystery Tour",
+        "artista": "The Beatles",
+        "portada": "images/022.jpeg",
+        "year": 1967,
+        "genero": "Psychedelic Pop"
     }
 ]
-
-
-
-
