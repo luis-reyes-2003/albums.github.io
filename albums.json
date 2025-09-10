@@ -152,5 +152,13 @@
         "portada": "images/022.jpeg",
         "year": 1967,
         "genero": "Psychedelic Pop"
+    },
+    {
+        "titulo": "Odessey and Oracle",
+        "artista": "The Zombies",
+        "portada": "images/023.jpeg",
+        "year": 1968,
+        "genero": "Psychedelic Pop"
     }
 ]
+
