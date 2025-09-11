@@ -159,6 +159,14 @@
         "portada": "images/023.jpeg",
         "year": 1968,
         "genero": "Psychedelic Pop"
+    },
+    {
+        "titulo": "The Beatles",
+        "artista": "The Beatles",
+        "portada": "images/024.jpeg",
+        "year": 1968,
+        "genero": "Pop Rock"
     }
 ]
+
 
