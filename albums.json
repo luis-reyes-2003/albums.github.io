@@ -166,7 +166,15 @@
         "portada": "images/024.jpeg",
         "year": 1968,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Yellow Submarine",
+        "artista": "The Beatles",
+        "portada": "images/025.jpeg",
+        "year": 1969,
+        "genero": "Psychedelic Pop"
     }
 ]
+
 
 
