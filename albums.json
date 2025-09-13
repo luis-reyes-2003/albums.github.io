@@ -173,8 +173,16 @@
         "portada": "images/025.jpeg",
         "year": 1969,
         "genero": "Psychedelic Pop"
+    },
+    {
+        "titulo": "Nazz Nazz",
+        "artista": "Nazz",
+        "portada": "images/026.jpeg",
+        "year": 1969,
+        "genero": "Psychedelic Rock"
     }
 ]
+
 
 
 
