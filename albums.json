@@ -180,8 +180,16 @@
         "portada": "images/026.jpeg",
         "year": 1969,
         "genero": "Psychedelic Rock"
+    },
+    {
+        "titulo": "Abbey Road",
+        "artista": "The Beatles",
+        "portada": "images/027.jpeg",
+        "year": 1969,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
 
