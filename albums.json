@@ -187,10 +187,12 @@
         "portada": "images/027.jpeg",
         "year": 1969,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Almendra",
+        "artista": "Almendra",
+        "portada": "images/028.jpeg",
+        "year": 1969,
+        "genero": "Psychedelic Rock"
     }
 ]
-
-
-
-
-
