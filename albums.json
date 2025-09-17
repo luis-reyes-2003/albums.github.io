@@ -194,5 +194,13 @@
         "portada": "images/028.jpeg",
         "year": 1969,
         "genero": "Psychedelic Rock"
+    },
+    {
+        "titulo": "McCartney",
+        "artista": "Paul McCartney",
+        "portada": "images/029.jpeg",
+        "year": 1970,
+        "genero": "Pop Rock"
     }
 ]
+
