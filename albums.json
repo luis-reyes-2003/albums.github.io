@@ -201,6 +201,14 @@
         "portada": "images/029.jpeg",
         "year": 1970,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Let It Be",
+        "artista": "The Beatles",
+        "portada": "images/030.jpeg",
+        "year": 1970,
+        "genero": "Pop Rock"
     }
 ]
+
 
