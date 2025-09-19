@@ -208,7 +208,15 @@
         "portada": "images/030.jpeg",
         "year": 1970,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Plastic Ono Band",
+        "artista": "John Lennon",
+        "portada": "images/031.jpeg",
+        "year": 1970,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
