@@ -215,8 +215,16 @@
         "portada": "images/031.jpeg",
         "year": 1970,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "L.A. Woman",
+        "artista": "The Doors",
+        "portada": "images/032.jpeg",
+        "year": 1971,
+        "genero": "Blues Rock"
     }
 ]
+
 
 
 
