@@ -222,9 +222,12 @@
         "portada": "images/032.jpeg",
         "year": 1971,
         "genero": "Blues Rock"
+    },
+    {
+        "titulo": "What's Going On",
+        "artista": "Marvin Gaye",
+        "portada": "images/033.jpeg",
+        "year": 1971,
+        "genero": "Soul"
     }
 ]
-
-
-
-
