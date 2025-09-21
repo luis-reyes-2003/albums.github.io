@@ -229,5 +229,13 @@
         "portada": "images/033.jpeg",
         "year": 1971,
         "genero": "Soul"
+    },
+    {
+        "titulo": "Imagine",
+        "artista": "John Lennon",
+        "portada": "images/034.jpeg",
+        "year": 1971,
+        "genero": "Pop Rock"
     }
 ]
+
