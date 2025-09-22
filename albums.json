@@ -236,6 +236,14 @@
         "portada": "images/034.jpeg",
         "year": 1971,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Machine Head",
+        "artista": "Deep Purple",
+        "portada": "images/035.jpeg",
+        "year": 1972,
+        "genero": "Hard Rock"
     }
 ]
+
 
