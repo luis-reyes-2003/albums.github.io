@@ -243,7 +243,15 @@
         "portada": "images/035.jpeg",
         "year": 1972,
         "genero": "Hard Rock"
+    },
+    {
+        "titulo": "#1 Record",
+        "artista": "Big Star",
+        "portada": "images/036.jpeg",
+        "year": 1972,
+        "genero": "Power Pop"
     }
 ]
+
 
 
