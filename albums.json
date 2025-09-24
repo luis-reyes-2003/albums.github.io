@@ -250,8 +250,16 @@
         "portada": "images/036.jpeg",
         "year": 1972,
         "genero": "Power Pop"
+    },
+    {
+        "titulo": "The Dark Side of the Moon",
+        "artista": "Pink Floyd",
+        "portada": "images/037.jpeg",
+        "year": 1973,
+        "genero": "Art Rock"
     }
 ]
+
 
 
 
