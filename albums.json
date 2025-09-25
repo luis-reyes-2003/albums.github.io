@@ -257,8 +257,16 @@
         "portada": "images/037.jpeg",
         "year": 1973,
         "genero": "Art Rock"
+    },
+    {
+        "titulo": "Houses of the Holy",
+        "artista": "Led Zeppelin",
+        "portada": "images/038.jpeg",
+        "year": 1973,
+        "genero": "Hard Rock"
     }
 ]
+
 
 
 
