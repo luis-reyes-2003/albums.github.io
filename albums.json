@@ -264,8 +264,16 @@
         "portada": "images/038.jpeg",
         "year": 1973,
         "genero": "Hard Rock"
+    },
+    {
+        "titulo": "Aladdin Sane",
+        "artista": "David Bowie",
+        "portada": "images/039.jpeg",
+        "year": 1973,
+        "genero": "Glam Rock"
     }
 ]
+
 
 
 
