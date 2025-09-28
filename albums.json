@@ -278,8 +278,16 @@
         "portada": "images/040.jpeg",
         "year": 1973,
         "genero": "Folk Rock"
+    },
+    {
+        "titulo": "Wild Tales",
+        "artista": "Graham Nash",
+        "portada": "images/041.jpeg",
+        "year": 1974,
+        "genero": "Folk Rock"
     }
 ]
+
 
 
 
