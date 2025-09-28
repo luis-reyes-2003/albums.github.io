@@ -271,8 +271,16 @@
         "portada": "images/039.jpeg",
         "year": 1973,
         "genero": "Glam Rock"
+    },
+    {
+        "titulo": "Artaud",
+        "artista": "Pescado Rabioso",
+        "portada": "images/040.jpeg",
+        "year": 1973,
+        "genero": "Folk Rock"
     }
 ]
+
 
 
 
