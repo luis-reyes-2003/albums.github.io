@@ -285,13 +285,12 @@
         "portada": "images/041.jpeg",
         "year": 1974,
         "genero": "Folk Rock"
+    },
+    {
+        "titulo": "Wish You Were Here",
+        "artista": "Pink Floyd",
+        "portada": "images/042.jpeg",
+        "year": 1975,
+        "genero": "Progressive Rock"
     }
 ]
-
-
-
-
-
-
-
-
