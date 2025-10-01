@@ -292,5 +292,13 @@
         "portada": "images/042.jpeg",
         "year": 1975,
         "genero": "Progressive Rock"
+    },
+    {
+        "titulo": "Presence",
+        "artista": "Led Zeppelin",
+        "portada": "images/043.jpeg",
+        "year": 1976,
+        "genero": "Hard Rock"
     }
 ]
+
