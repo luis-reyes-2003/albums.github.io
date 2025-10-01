@@ -299,6 +299,14 @@
         "portada": "images/043.jpeg",
         "year": 1976,
         "genero": "Hard Rock"
+    },
+    {
+        "titulo": "Ramones",
+        "artista": "Ramones",
+        "portada": "images/044.jpeg",
+        "year": 1976,
+        "genero": "Punk Rock"
     }
 ]
+
 
