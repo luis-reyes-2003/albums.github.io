@@ -306,7 +306,15 @@
         "portada": "images/044.jpeg",
         "year": 1976,
         "genero": "Punk Rock"
+    },
+    {
+        "titulo": "Taxi Driver",
+        "artista": "Bernard Herrmann",
+        "portada": "images/045.jpeg",
+        "year": 1976,
+        "genero": "Film Score"
     }
 ]
+
 
 
