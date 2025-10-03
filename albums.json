@@ -313,8 +313,16 @@
         "portada": "images/045.jpeg",
         "year": 1976,
         "genero": "Film Score"
+    },
+    {
+        "titulo": "El Jardín de los Presentes",
+        "artista": "Invisible",
+        "portada": "images/046.jpeg",
+        "year": 1976,
+        "genero": "Progressive Rock"
     }
 ]
+
 
 
 
