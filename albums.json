@@ -327,10 +327,12 @@
         "portada": "images/047.jpeg",
         "year": 1977,
         "genero": "Punk Rock"
+    },
+    {
+        "titulo": "George Harrison",
+        "artista": "George Harrison",
+        "portada": "images/048.jpeg",
+        "year": 1979,
+        "genero": "Soft Rock"
     }
 ]
-
-
-
-
-
