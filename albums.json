@@ -320,8 +320,16 @@
         "portada": "images/046.jpeg",
         "year": 1976,
         "genero": "Progressive Rock"
+    },
+    {
+        "titulo": "The Clash",
+        "artista": "The Clash",
+        "portada": "images/047.jpeg",
+        "year": 1977,
+        "genero": "Punk Rock"
     }
 ]
+
 
 
 
