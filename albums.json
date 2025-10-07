@@ -334,5 +334,20 @@
         "portada": "images/048.jpeg",
         "year": 1979,
         "genero": "Soft Rock"
+    },
+    {
+        "titulo": "London Calling",
+        "artista": "The Clash",
+        "portada": "images/049.jpeg",
+        "year": 1979,
+        "genero": "Punk Rock"
+    },
+    {
+        "titulo": "British Steel",
+        "artista": "Judas Priest",
+        "portada": "images/050.jpeg",
+        "year": 1980,
+        "genero": "Heavy Metal"
     }
 ]
+
