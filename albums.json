@@ -348,6 +348,14 @@
         "portada": "images/050.jpeg",
         "year": 1980,
         "genero": "Heavy Metal"
+    },
+    {
+        "titulo": "Nightclubbing",
+        "artista": "Grace Jones",
+        "portada": "images/051.jpeg",
+        "year": 1981,
+        "genero": "Art Pop"
     }
 ]
+
 
