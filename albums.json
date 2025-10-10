@@ -355,7 +355,15 @@
         "portada": "images/051.jpeg",
         "year": 1981,
         "genero": "Art Pop"
+    },
+    {
+        "titulo": "Talk Talk Talk",
+        "artista": "The Psychedelic Furs",
+        "portada": "images/052.jpeg",
+        "year": 1981,
+        "genero": "Post-Punk"
     }
 ]
+
 
 
