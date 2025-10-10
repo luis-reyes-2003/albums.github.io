@@ -362,8 +362,16 @@
         "portada": "images/052.jpeg",
         "year": 1981,
         "genero": "Post-Punk"
+    },
+    {
+        "titulo": "Toto IV",
+        "artista": "Toto",
+        "portada": "images/053.jpeg",
+        "year": 1982,
+        "genero": "AOR"
     }
 ]
+
 
 
 
