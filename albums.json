@@ -369,8 +369,16 @@
         "portada": "images/053.jpeg",
         "year": 1982,
         "genero": "AOR"
+    },
+    {
+        "titulo": "Tug of War",
+        "artista": "Paul McCartney",
+        "portada": "images/054.jpeg",
+        "year": 1982,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
 
