@@ -376,10 +376,12 @@
         "portada": "images/054.jpeg",
         "year": 1982,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Tropical Gangsters",
+        "artista": "Kid Creole & The Coconuts",
+        "portada": "images/055.jpeg",
+        "year": 1982,
+        "genero": "Disco"
     }
 ]
-
-
-
-
-
