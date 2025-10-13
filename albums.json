@@ -382,6 +382,14 @@
         "artista": "Kid Creole & The Coconuts",
         "portada": "images/055.jpeg",
         "year": 1982,
-        "genero": "Disco"
+        "genero": "Mutant Disco"
+    },
+    {
+        "titulo": "Avalon",
+        "artista": "Roxy Music",
+        "portada": "images/056.jpeg",
+        "year": 1982,
+        "genero": "Sophisti-Pop"
     }
 ]
+
