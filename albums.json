@@ -390,6 +390,14 @@
         "portada": "images/056.jpeg",
         "year": 1982,
         "genero": "Sophisti-Pop"
+    },
+    {
+        "titulo": "Thriller",
+        "artista": "Michael Jackson",
+        "portada": "images/057.jpeg",
+        "year": 1982,
+        "genero": "Contemporary R&B"
     }
 ]
+
 
