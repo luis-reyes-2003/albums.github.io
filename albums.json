@@ -397,7 +397,15 @@
         "portada": "images/057.jpeg",
         "year": 1982,
         "genero": "Contemporary R&B"
+    },
+    {
+        "titulo": "Murmur",
+        "artista": "R.E.M.",
+        "portada": "images/058.jpeg",
+        "year": 1983,
+        "genero": "Jangle Pop"
     }
 ]
+
 
 
