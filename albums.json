@@ -418,8 +418,16 @@
         "portada": "images/060.jpeg",
         "year": 1983,
         "genero": "New Wave"
+    },
+    {
+        "titulo": "The Smiths",
+        "artista": "The Smiths",
+        "portada": "images/061.jpeg",
+        "year": 1984,
+        "genero": "Jangle Pop"
     }
 ]
+
 
 
 
