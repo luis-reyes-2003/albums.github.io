@@ -411,8 +411,16 @@
         "portada": "images/059.jpeg",
         "year": 1983,
         "genero": "New Wave"
+    },
+    {
+        "titulo": "Clics Modernos",
+        "artista": "Charly García",
+        "portada": "images/060.jpeg",
+        "year": 1983,
+        "genero": "New Wave"
     }
 ]
+
 
 
 
