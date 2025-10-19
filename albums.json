@@ -425,11 +425,12 @@
         "portada": "images/061.jpeg",
         "year": 1984,
         "genero": "Jangle Pop"
+    },
+    {
+        "titulo": "Reckoning",
+        "artista": "R.E.M.",
+        "portada": "images/062.jpeg",
+        "year": 1984,
+        "genero": "Jangle Pop"
     }
 ]
-
-
-
-
-
-
