@@ -432,5 +432,20 @@
         "portada": "images/062.jpeg",
         "year": 1984,
         "genero": "Jangle Pop"
+    },
+    {
+        "titulo": "Purple Rain",
+        "artista": "Prince",
+        "portada": "images/063.jpeg",
+        "year": 1984,
+        "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Soda Stereo",
+        "artista": "Soda Stereo",
+        "portada": "images/064.jpeg",
+        "year": 1984,
+        "genero": "Pop Rock"
     }
 ]
+
