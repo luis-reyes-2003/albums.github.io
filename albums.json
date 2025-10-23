@@ -446,6 +446,14 @@
         "portada": "images/064.jpeg",
         "year": 1984,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Bandido",
+        "artista": "Miguel Bosé",
+        "portada": "images/065.jpeg",
+        "year": 1984,
+        "genero": "Synthpop"
     }
 ]
+
 
