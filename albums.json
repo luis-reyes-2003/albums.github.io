@@ -453,7 +453,15 @@
         "portada": "images/065.jpeg",
         "year": 1984,
         "genero": "Synthpop"
-    }
+    },
+    {
+        "titulo": "Meat Is Murder",
+        "artista": "The Smiths",
+        "portada": "images/066.jpeg",
+        "year": 1985,
+        "genero": "Jangle Pop"
+    },
 ]
+
 
 
