@@ -460,9 +460,12 @@
         "portada": "images/066.jpeg",
         "year": 1985,
         "genero": "Jangle Pop"
+    },
+    {
+        "titulo": "Nada Personal",
+        "artista": "Soda Stereo",
+        "portada": "images/067.jpeg",
+        "year": 1985,
+        "genero": "New Wave"
     }
 ]
-
-
-
-
