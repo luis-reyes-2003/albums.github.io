@@ -467,5 +467,13 @@
         "portada": "images/067.jpeg",
         "year": 1985,
         "genero": "New Wave"
+    },
+    {
+        "titulo": "Privé",
+        "artista": "Luis Alberto Spinetta",
+        "portada": "images/068.jpeg",
+        "year": 1986,
+        "genero": "New Wave"
     }
 ]
+
