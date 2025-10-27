@@ -481,7 +481,15 @@
         "portada": "images/069.jpeg",
         "year": 1986,
         "genero": "Sophisti-Pop"
+    },
+    {
+        "titulo": "Boomtown",
+        "artista": "David + David",
+        "portada": "images/070.jpeg",
+        "year": 1986,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
