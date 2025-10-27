@@ -474,6 +474,14 @@
         "portada": "images/068.jpeg",
         "year": 1986,
         "genero": "New Wave"
+    },
+    {
+        "titulo": "Salamandra",
+        "artista": "Miguel Bosé",
+        "portada": "images/069.jpeg",
+        "year": 1986,
+        "genero": "Sophisti-Pop"
     }
 ]
+
 
