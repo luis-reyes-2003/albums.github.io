@@ -495,9 +495,12 @@
         "portada": "images/071.jpeg",
         "year": 1986,
         "genero": "New Wave"
+    },
+    {
+        "titulo": "Strangeways, Here We Come",
+        "artista": "The Smiths",
+        "portada": "images/072.jpeg",
+        "year": 1987,
+        "genero": "Jangle Pop"
     }
 ]
-
-
-
-
