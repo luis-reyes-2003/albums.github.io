@@ -488,8 +488,16 @@
         "portada": "images/070.jpeg",
         "year": 1986,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Signos",
+        "artista": "Soda Stereo",
+        "portada": "images/071.jpeg",
+        "year": 1986,
+        "genero": "New Wave"
     }
 ]
+
 
 
 
