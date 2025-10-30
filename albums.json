@@ -502,5 +502,13 @@
         "portada": "images/072.jpeg",
         "year": 1987,
         "genero": "Jangle Pop"
+    },
+    {
+        "titulo": "XXX",
+        "artista": "Miguel Bosé",
+        "portada": "images/073.jpeg",
+        "year": 1987,
+        "genero": "Sophisti-Pop"
     }
 ]
+
