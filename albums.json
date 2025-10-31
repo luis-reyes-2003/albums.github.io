@@ -509,6 +509,14 @@
         "portada": "images/073.jpeg",
         "year": 1987,
         "genero": "Sophisti-Pop"
+    },
+    {
+        "titulo": "Past Masters",
+        "artista": "The Beatles",
+        "portada": "images/074.jpeg",
+        "year": 1988,
+        "genero": "Pop Rock"
     }
 ]
+
 
