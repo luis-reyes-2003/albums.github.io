@@ -515,9 +515,17 @@
         "artista": "The Beatles",
         "portada": "images/074.jpeg",
         "year": 1988,
+        "genero": "Merseybeat"
+    },
+    {
+        "titulo": "Past Masters Vol. 2",
+        "artista": "The Beatles",
+        "portada": "images/075.jpeg",
+        "year": 1988,
         "genero": "Pop Rock"
     }
 ]
+
 
 
 
