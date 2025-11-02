@@ -523,8 +523,16 @@
         "portada": "images/075.jpeg",
         "year": 1988,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Viva Hate",
+        "artista": "Morrissey",
+        "portada": "images/076.jpeg",
+        "year": 1988,
+        "genero": "Jangle Pop"
     }
 ]
+
 
 
 
