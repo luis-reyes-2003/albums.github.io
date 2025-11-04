@@ -530,8 +530,16 @@
         "portada": "images/076.jpeg",
         "year": 1988,
         "genero": "Jangle Pop"
+    },
+    {
+        "titulo": "Surfer Rosa",
+        "artista": "Pixies",
+        "portada": "images/077.jpeg",
+        "year": 1988,
+        "genero": "Indie Rock"
     }
 ]
+
 
 
 
