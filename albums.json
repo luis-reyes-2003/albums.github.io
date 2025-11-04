@@ -537,8 +537,16 @@
         "portada": "images/077.jpeg",
         "year": 1988,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Seventh Son of a Seventh Son",
+        "artista": "Iron Maiden",
+        "portada": "images/078.jpeg",
+        "year": 1988,
+        "genero": "Heavy Metal"
     }
 ]
+
 
 
 
