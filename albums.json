@@ -551,5 +551,13 @@
         "portada": "images/079.jpeg",
         "year": 1988,
         "genero": "Post-Punk"
+    },
+    {
+        "titulo": "Doble Vida",
+        "artista": "Soda Stereo",
+        "portada": "images/080.jpeg",
+        "year": 1988,
+        "genero": "Pop Rock"
     }
 ]
+
