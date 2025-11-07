@@ -553,6 +553,13 @@
         "genero": "Post-Punk"
     },
     {
+        "titulo": "Téster de Violencia",
+        "artista": "Luis Alberto Spinetta",
+        "portada": "images/081.jpeg",
+        "year": 1988,
+        "genero": "Art Rock"
+    },
+    {
         "titulo": "Doble Vida",
         "artista": "Soda Stereo",
         "portada": "images/080.jpeg",
@@ -560,4 +567,5 @@
         "genero": "Pop Rock"
     }
 ]
+
 
