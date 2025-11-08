@@ -565,7 +565,15 @@
         "portada": "images/080.jpeg",
         "year": 1988,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Doolittle",
+        "artista": "Pixies",
+        "portada": "images/081.jpeg",
+        "year": 1989,
+        "genero": "Indie Rock"
     }
 ]
+
 
 
