@@ -569,11 +569,19 @@
     {
         "titulo": "Doolittle",
         "artista": "Pixies",
-        "portada": "images/081.jpeg",
+        "portada": "images/082.jpeg",
         "year": 1989,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Full Moon Fever",
+        "artista": "Tom Petty",
+        "portada": "images/083.jpeg",
+        "year": 1989,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
 
