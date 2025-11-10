@@ -579,8 +579,16 @@
         "portada": "images/083.jpeg",
         "year": 1989,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Reading, Writing and Arithmetic",
+        "artista": "The Sundays",
+        "portada": "images/084.jpeg",
+        "year": 199,
+        "genero": "Jangle Pop"
     }
 ]
+
 
 
 
