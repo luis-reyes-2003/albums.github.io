@@ -584,10 +584,18 @@
         "titulo": "Reading, Writing and Arithmetic",
         "artista": "The Sundays",
         "portada": "images/084.jpeg",
-        "year": 199,
+        "year": 1990,
         "genero": "Jangle Pop"
+    },
+    {
+        "titulo": "Canción Animal",
+        "artista": "Soda Stereo",
+        "portada": "images/085.jpeg",
+        "year": 1990,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
