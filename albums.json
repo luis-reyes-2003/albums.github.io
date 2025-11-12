@@ -593,8 +593,16 @@
         "portada": "images/085.jpeg",
         "year": 1990,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Spiderland",
+        "artista": "Slint",
+        "portada": "images/086.jpeg",
+        "year": 1991,
+        "genero": "Post-Rock"
     }
 ]
+
 
 
 
