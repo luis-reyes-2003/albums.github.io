@@ -607,5 +607,13 @@
         "portada": "images/087.jpeg",
         "year": 1991,
         "genero": "Baggy"
+    },
+    {
+        "titulo": "Ten",
+        "artista": "Pearl Jam",
+        "portada": "images/088.jpeg",
+        "year": 1991,
+        "genero": "Grunge"
     }
 ]
+
