@@ -635,9 +635,12 @@
         "portada": "images/091.jpeg",
         "year": 1992,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Café Tacvba",
+        "artista": "Café Tacvba",
+        "portada": "images/092.jpeg",
+        "year": 1992,
+        "genero": "Latin Alternative"
     }
 ]
-
-
-
-
