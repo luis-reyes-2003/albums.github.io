@@ -628,8 +628,16 @@
         "portada": "images/090.jpeg",
         "year": 1992,
         "genero": "Punk Blues"
+    },
+    {
+        "titulo": "Your Arsenal",
+        "artista": "Morrissey",
+        "portada": "images/091.jpeg",
+        "year": 1992,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
