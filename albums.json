@@ -642,5 +642,13 @@
         "portada": "images/092.jpeg",
         "year": 1992,
         "genero": "Latin Alternative"
+    },
+    {
+        "titulo": "Blind",
+        "artista": "The Sundays",
+        "portada": "images/093.jpeg",
+        "year": 1992,
+        "genero": "Dream Pop"
     }
 ]
+
