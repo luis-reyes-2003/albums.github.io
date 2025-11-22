@@ -656,7 +656,15 @@
         "portada": "images/094.jpeg",
         "year": 1992,
         "genero": "Shoegaze"
+    },
+    {
+        "titulo": "Suede",
+        "artista": "Suede",
+        "portada": "images/095.jpeg",
+        "year": 1993,
+        "genero": "Britpop"
     }
 ]
+
 
 
