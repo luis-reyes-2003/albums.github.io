@@ -670,8 +670,16 @@
         "portada": "images/096.jpeg",
         "year": 1993,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Modern Life Is Rubbish",
+        "artista": "Blur",
+        "portada": "images/097.jpeg",
+        "year": 1993,
+        "genero": "Britpop"
     }
 ]
+
 
 
 
