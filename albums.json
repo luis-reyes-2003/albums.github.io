@@ -663,8 +663,16 @@
         "portada": "images/095.jpeg",
         "year": 1993,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "Se Remata el Siglo",
+        "artista": "Los Tres",
+        "portada": "images/096.jpeg",
+        "year": 1993,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
