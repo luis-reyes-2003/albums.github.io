@@ -677,8 +677,16 @@
         "portada": "images/097.jpeg",
         "year": 1993,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "Bajo el Signo de Caín",
+        "artista": "Miguel Bosé",
+        "portada": "images/098.jpeg",
+        "year": 1993,
+        "genero": "Sophisti-Pop"
     }
 ]
+
 
 
 
