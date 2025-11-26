@@ -684,11 +684,12 @@
         "portada": "images/098.jpeg",
         "year": 1993,
         "genero": "Sophisti-Pop"
+    },
+    {
+        "titulo": "Vs.",
+        "artista": "Pearl Jam",
+        "portada": "images/099.jpeg",
+        "year": 1993,
+        "genero": "Grunge"
     }
 ]
-
-
-
-
-
-
