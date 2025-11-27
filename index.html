@@ -79,7 +79,7 @@
       const pageAlbums = albums.slice(start, end);
 
       pageAlbums.forEach((album, i) => {
-        const globalIndex = start + i; // mantiene numeración continua entre páginas
+        const globalIndex = albums.length - 1 - (start + i); //Numeración en reversa
         const yearText = album.year ? ` (${album.year})` : "";
 
         const albumDiv = document.createElement("div");
@@ -120,6 +120,7 @@
   </script>
 </body>
 </html>
+
 
 
 
