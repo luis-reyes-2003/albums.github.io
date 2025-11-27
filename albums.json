@@ -691,5 +691,13 @@
         "portada": "images/099.jpeg",
         "year": 1993,
         "genero": "Grunge"
+    },
+    {
+        "titulo": "Amor Amarillo",
+        "artista": "Gustavo Cerati",
+        "portada": "images/100.jpeg",
+        "year": 1993,
+        "genero": "Dream Pop"
     }
 ]
+
