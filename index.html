@@ -65,6 +65,7 @@
       try {
         const response = await fetch("albums.json");
         albums = await response.json();
+        albums.reverse(); // ORDENAR DESCENDENTE
         renderPage();
       } catch (error) {
         albumList.innerHTML = "<p>Error al cargar los álbumes.</p>";
@@ -119,6 +120,7 @@
   </script>
 </body>
 </html>
+
 
 
 
