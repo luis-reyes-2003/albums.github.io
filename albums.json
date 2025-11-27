@@ -698,6 +698,14 @@
         "portada": "images/100.jpeg",
         "year": 1993,
         "genero": "Dream Pop"
+    },
+    {
+        "titulo": "Vauxhall and I",
+        "artista": "Morrissey",
+        "portada": "images/101.jpeg",
+        "year": 1994,
+        "genero": "Indie Pop"
     }
 ]
+
 
