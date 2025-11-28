@@ -705,7 +705,15 @@
         "portada": "images/101.jpeg",
         "year": 1994,
         "genero": "Indie Pop"
+    },
+    {
+        "titulo": "His 'n' Hers",
+        "artista": "Pulp",
+        "portada": "images/102.jpeg",
+        "year": 1994,
+        "genero": "Britpop"
     }
 ]
+
 
 
