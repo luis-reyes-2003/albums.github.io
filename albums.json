@@ -712,8 +712,12 @@
         "portada": "images/102.jpeg",
         "year": 1994,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "Let Love In",
+        "artista": "Nick Cave & The Bad Seeds",
+        "portada": "images/103.jpeg",
+        "year": 1994,
+        "genero": "Alternative Rock"
     }
 ]
-
-
-
