@@ -719,5 +719,13 @@
         "portada": "images/103.jpeg",
         "year": 1994,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Parklife",
+        "artista": "Blur",
+        "portada": "images/104.jpeg",
+        "year": 1994,
+        "genero": "Britpop"
     }
 ]
+
