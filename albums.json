@@ -726,6 +726,14 @@
         "portada": "images/104.jpeg",
         "year": 1994,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "Purple",
+        "artista": "Stone Temple Pilots",
+        "portada": "images/105.jpeg",
+        "year": 1994,
+        "genero": "Grunge"
     }
 ]
+
 
