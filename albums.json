@@ -733,7 +733,15 @@
         "portada": "images/105.jpeg",
         "year": 1994,
         "genero": "Grunge"
+    },
+    {
+        "titulo": "Re",
+        "artista": "Café Tacvba",
+        "portada": "images/106.jpeg",
+        "year": 1994,
+        "genero": "Latin Alternative"
     }
 ]
+
 
 
