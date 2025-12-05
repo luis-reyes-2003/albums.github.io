@@ -740,8 +740,23 @@
         "portada": "images/106.jpeg",
         "year": 1994,
         "genero": "Latin Alternative"
+    },
+    {
+        "titulo": "Definitely Maybe",
+        "artista": "Oasis",
+        "portada": "images/107.jpeg",
+        "year": 1994,
+        "genero": "Britpop"
+    },
+    {
+        "titulo": "Dog Man Star",
+        "artista": "Suede",
+        "portada": "images/108.jpeg",
+        "year": 1994,
+        "genero": "Britpop"
     }
 ]
+
 
 
 
