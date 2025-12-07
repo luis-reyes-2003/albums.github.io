@@ -761,8 +761,16 @@
         "portada": "images/109.jpeg",
         "year": 1995,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Elastica",
+        "artista": "Elastica",
+        "portada": "images/110.jpeg",
+        "year": 1995,
+        "genero": "Britpop"
     }
 ]
+
 
 
 
