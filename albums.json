@@ -754,8 +754,16 @@
         "portada": "images/108.jpeg",
         "year": 1994,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "The Bends",
+        "artista": "Radiohead",
+        "portada": "images/109.jpeg",
+        "year": 1995,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
