@@ -768,11 +768,12 @@
         "portada": "images/110.jpeg",
         "year": 1995,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "La Espada & la Pared",
+        "artista": "Los Tres",
+        "portada": "images/111.jpeg",
+        "year": 1995,
+        "genero": "Alternative Rock"
     }
 ]
-
-
-
-
-
-
