@@ -782,6 +782,14 @@
         "portada": "images/112.jpeg",
         "year": 1995,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "Sueño Stereo",
+        "artista": "Soda Stereo",
+        "portada": "images/113.jpeg",
+        "year": 1995,
+        "genero": "Alternative Rock"
     }
 ]
+
 
