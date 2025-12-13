@@ -789,7 +789,22 @@
         "portada": "images/113.jpeg",
         "year": 1995,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Peces",
+        "artista": "Lucybel",
+        "portada": "images/114.jpeg",
+        "year": 1995,
+        "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "The Great Escape",
+        "artista": "Blur",
+        "portada": "images/115.jpeg",
+        "year": 1995,
+        "genero": "Blur"
     }
 ]
+
 
 
