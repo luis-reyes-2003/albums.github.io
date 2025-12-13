@@ -792,7 +792,7 @@
     },
     {
         "titulo": "Peces",
-        "artista": "Lucybel",
+        "artista": "Lucybell",
         "portada": "images/114.jpeg",
         "year": 1995,
         "genero": "Alternative Rock"
@@ -802,9 +802,17 @@
         "artista": "Blur",
         "portada": "images/115.jpeg",
         "year": 1995,
-        "genero": "Blur"
+        "genero": "Britpop"
+    },
+    {
+        "titulo": "(What's the Story) Morning Glory?",
+        "artista": "Oasis",
+        "portada": "images/116.jpeg",
+        "year": 1995,
+        "genero": "Britpop"
     }
 ]
+
 
 
 
