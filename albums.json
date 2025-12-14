@@ -810,8 +810,16 @@
         "portada": "images/116.jpeg",
         "year": 1995,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "Different Class",
+        "artista": "Pulp",
+        "portada": "images/117.jpeg",
+        "year": 1995,
+        "genero": "Britpop"
     }
 ]
+
 
 
 
