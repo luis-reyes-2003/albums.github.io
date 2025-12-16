@@ -817,8 +817,16 @@
         "portada": "images/117.jpeg",
         "year": 1995,
         "genero": "Britpop"
+    },
+    {
+        "titulo": "Emperor Tomato Ketchup",
+        "artista": "Stereolab",
+        "portada": "images/118.jpeg",
+        "year": 1996,
+        "genero": "Art Pop"
     }
 ]
+
 
 
 
