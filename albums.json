@@ -824,8 +824,23 @@
         "portada": "images/118.jpeg",
         "year": 1996,
         "genero": "Art Pop"
+    },
+    {
+        "titulo": "Unplugged",
+        "artista": "Los Tres",
+        "portada": "images/119.jpeg",
+        "year": 1996,
+        "genero": "Acoustic Rock"
+    },
+    {
+        "titulo": "Coming Up",
+        "artista": "Suede",
+        "portada": "images/120.jpeg",
+        "year": 1996,
+        "genero": "Britpop"
     }
 ]
+
 
 
 
