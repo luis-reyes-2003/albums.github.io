@@ -845,6 +845,21 @@
         "portada": "images/121.jpeg",
         "year": 1996,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Viajar",
+        "artista": "Lucybell",
+        "portada": "images/122.jpeg",
+        "year": 1996,
+        "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Avalancha de Éxitos",
+        "artista": "Café Tacvba",
+        "portada": "images/123.jpeg",
+        "year": 1996,
+        "genero": "Latin Alternative"
     }
 ]
+
 
