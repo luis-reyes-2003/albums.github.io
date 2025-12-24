@@ -873,9 +873,12 @@
         "portada": "images/125.jpeg",
         "year": 1997,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Static & Silence",
+        "artista": "The Sundays",
+        "portada": "images/126.jpeg",
+        "year": 1997,
+        "genero": "Indie Pop"
     }
 ]
-
-
-
-
