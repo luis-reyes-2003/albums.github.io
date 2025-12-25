@@ -880,5 +880,13 @@
         "portada": "images/126.jpeg",
         "year": 1997,
         "genero": "Indie Pop"
+    },
+    {
+        "titulo": "This Is Hardcore",
+        "artista": "Pulp",
+        "portada": "images/127.jpeg",
+        "year": 1997,
+        "genero": "Art Rock"
     }
 ]
+
