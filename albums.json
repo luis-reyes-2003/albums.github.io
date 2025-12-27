@@ -885,8 +885,23 @@
         "titulo": "This Is Hardcore",
         "artista": "Pulp",
         "portada": "images/127.jpeg",
-        "year": 1997,
+        "year": 1998,
         "genero": "Art Rock"
+    },
+    {
+        "titulo": "Mezzanine",
+        "artista": "Massive Attack",
+        "portada": "images/128.jpeg",
+        "year": 1998,
+        "genero": "Trip Hop"
+    },
+    {
+        "titulo": "Lucybell",
+        "artista": "Lucybell",
+        "portada": "images/129.jpeg",
+        "year": 1998,
+        "genero": "Alternative Rock"
     }
 ]
+
 
