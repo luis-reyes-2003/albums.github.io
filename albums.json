@@ -901,7 +901,15 @@
         "portada": "images/129.jpeg",
         "year": 1998,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "13",
+        "artista": "Blur",
+        "portada": "images/130.jpeg",
+        "year": 1999,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
