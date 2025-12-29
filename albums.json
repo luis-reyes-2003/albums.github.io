@@ -908,8 +908,16 @@
         "portada": "images/130.jpeg",
         "year": 1999,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Artilleria Pesada, Presenta:",
+        "artista": "Control Machete",
+        "portada": "images/131.jpeg",
+        "year": 1999,
+        "genero": "Latin Rap"
     }
 ]
+
 
 
 
