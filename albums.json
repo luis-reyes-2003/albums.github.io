@@ -915,8 +915,23 @@
         "portada": "images/131.jpeg",
         "year": 1999,
         "genero": "Latin Rap"
+    },
+    {
+        "titulo": "Bocanada",
+        "artista": "Gustavo Cerati",
+        "portada": "images/132.jpeg",
+        "year": 1999,
+        "genero": "Downtempo"
+    },
+    {
+        "titulo": "Apocalypshit",
+        "artista": "Molotov",
+        "portada": "images/133.jpeg",
+        "year": 1999,
+        "genero": "Rap Rock"
     }
 ]
+
 
 
 
