@@ -929,10 +929,12 @@
         "portada": "images/133.jpeg",
         "year": 1999,
         "genero": "Rap Rock"
+    },
+    {
+        "titulo": "The Menace",
+        "artista": "Elastica",
+        "portada": "images/134.jpeg",
+        "year": 2000,
+        "genero": "Indie Rock"
     }
 ]
-
-
-
-
-
