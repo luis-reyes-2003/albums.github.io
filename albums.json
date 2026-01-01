@@ -936,5 +936,13 @@
         "portada": "images/134.jpeg",
         "year": 2000,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Amanece",
+        "artista": "Lucybell",
+        "portada": "images/135.jpeg",
+        "year": 2000,
+        "genero": "Alternative Rock"
     }
 ]
+
