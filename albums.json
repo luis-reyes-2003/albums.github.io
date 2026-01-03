@@ -943,6 +943,21 @@
         "portada": "images/135.jpeg",
         "year": 2000,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Gorillaz",
+        "artista": "Gorillaz",
+        "portada": "images/136.jpeg",
+        "year": 2001,
+        "genero": "Trip Hop"
+    },
+    {
+        "titulo": "No More Shall We Part",
+        "artista": "Nick Cave & The Bad Seeds",
+        "portada": "images/137.jpeg",
+        "year": 2001,
+        "genero": "Singer-Songwriter"
     }
 ]
+
 
