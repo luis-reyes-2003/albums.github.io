@@ -957,7 +957,15 @@
         "portada": "images/137.jpeg",
         "year": 2001,
         "genero": "Singer-Songwriter"
+    },
+    {
+        "titulo": "Sereno",
+        "artista": "Miguel Bosé",
+        "portada": "images/138.jpeg",
+        "year": 2002,
+        "genero": "Sophisti-Pop"
     }
 ]
+
 
 
