@@ -964,8 +964,16 @@
         "portada": "images/138.jpeg",
         "year": 2002,
         "genero": "Sophisti-Pop"
+    },
+    {
+        "titulo": "Fenómenos",
+        "artista": "Víctimas del Dr. Cerebro",
+        "portada": "images/139.jpeg",
+        "year": 2002,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
