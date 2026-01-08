@@ -971,8 +971,23 @@
         "portada": "images/139.jpeg",
         "year": 2002,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "¡¡Que Corra la Voz!!",
+        "artista": "Ska-P",
+        "portada": "images/140.jpeg",
+        "year": 2002,
+        "genero": "Ska Punk"
+    },
+    {
+        "titulo": "Punch-Drunk Love",
+        "artista": "Jon Brion/Varios Artistas",
+        "portada": "images/141.jpeg",
+        "year": 2002,
+        "genero": "Film Score"
     }
 ]
+
 
 
 
