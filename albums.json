@@ -992,5 +992,13 @@
         "portada": "images/142.jpeg",
         "year": 2002,
         "genero": "Nu Metal"
+    },
+    {
+        "titulo": "Siempre Es Hoy",
+        "artista": "Gustavo Cerati",
+        "portada": "images/143.jpeg",
+        "year": 2002,
+        "genero": "Alternative Dance"
     }
 ]
+
