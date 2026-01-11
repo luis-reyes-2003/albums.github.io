@@ -999,6 +999,21 @@
         "portada": "images/143.jpeg",
         "year": 2002,
         "genero": "Alternative Dance"
+    },
+    {
+        "titulo": "Boomerang",
+        "artista": "Fermín IV",
+        "portada": "images/144.jpeg",
+        "year": 2002,
+        "genero": "Latin Rap"
+    },
+    {
+        "titulo": "Elephant",
+        "artista": "The White Stripes",
+        "portada": "images/145.jpeg",
+        "year": 2003,
+        "genero": "Garage Rock Revival"
     }
 ]
+
 
