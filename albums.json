@@ -1013,7 +1013,15 @@
         "portada": "images/145.jpeg",
         "year": 2003,
         "genero": "Garage Rock Revival"
+    },
+    {
+        "titulo": "Think Tank",
+        "artista": "Blur",
+        "portada": "images/146.jpeg",
+        "year": 2003,
+        "genero": "Art Rock"
     }
 ]
+
 
 
