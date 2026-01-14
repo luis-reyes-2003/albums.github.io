@@ -1020,8 +1020,16 @@
         "portada": "images/146.jpeg",
         "year": 2003,
         "genero": "Art Rock"
+    },
+    {
+        "titulo": "Cuatro Caminos",
+        "artista": "Café Tacvba",
+        "portada": "images/147.jpeg",
+        "year": 2003,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
