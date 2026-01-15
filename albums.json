@@ -1027,9 +1027,12 @@
         "portada": "images/147.jpeg",
         "year": 2003,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Justicia Para el País",
+        "artista": "Los Rude Boys",
+        "portada": "images/148.jpeg",
+        "year": 2003,
+        "genero": "Ska"
     }
 ]
-
-
-
-
