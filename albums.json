@@ -1034,5 +1034,20 @@
         "portada": "images/148.jpeg",
         "year": 2003,
         "genero": "Ska"
+    },
+    {
+        "titulo": "Uno, Dos: Bandera",
+        "artista": "Control Machete",
+        "portada": "images/149.jpeg",
+        "year": 2003,
+        "genero": "Latin Rap"
+    },
+    {
+        "titulo": "Sí",
+        "artista": "Julieta Venegas",
+        "portada": "images/150.jpeg",
+        "year": 2003,
+        "genero": "Indie Pop"
     }
 ]
+
