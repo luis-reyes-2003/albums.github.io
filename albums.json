@@ -1062,8 +1062,23 @@
         "portada": "images/152.jpeg",
         "year": 2004,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Funeral",
+        "artista": "Arcade Fire",
+        "portada": "images/153.jpeg",
+        "year": 2004,
+        "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Con Todo Respeto",
+        "artista": "Molotov",
+        "portada": "images/154.jpeg",
+        "year": 2004,
+        "genero": "Rap Rock"
     }
 ]
+
 
 
 
