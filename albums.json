@@ -1076,8 +1076,23 @@
         "portada": "images/154.jpeg",
         "year": 2004,
         "genero": "Rap Rock"
+    },
+    {
+        "titulo": "Velvetina",
+        "artista": "Miguel Bosé",
+        "portada": "images/155.jpeg",
+        "year": 2005,
+        "genero": "Art Pop"
+    },
+    {
+        "titulo": "Consuelo En Domingo",
+        "artista": "Enjambre",
+        "portada": "images/156.jpeg",
+        "year": 2005,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
