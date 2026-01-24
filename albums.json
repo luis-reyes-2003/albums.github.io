@@ -1090,8 +1090,16 @@
         "portada": "images/156.jpeg",
         "year": 2005,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Demon Days",
+        "artista": "Gorillaz",
+        "portada": "images/157.jpeg",
+        "year": 2005,
+        "genero": "Art Pop"
     }
 ]
+
 
 
 
