@@ -1097,8 +1097,16 @@
         "portada": "images/157.jpeg",
         "year": 2005,
         "genero": "Art Pop"
+    },
+    {
+        "titulo": "MTV Unplugged",
+        "artista": "Café Tacvba",
+        "portada": "images/158.jpeg",
+        "year": 2005,
+        "genero": "Latin Alternative"
     }
 ]
+
 
 
 
