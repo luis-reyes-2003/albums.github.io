@@ -1104,12 +1104,19 @@
         "portada": "images/158.jpeg",
         "year": 2005,
         "genero": "Latin Alternative"
+    },
+    {
+        "titulo": "Road to Rouen",
+        "artista": "Supergrass",
+        "portada": "images/159.jpeg",
+        "year": 2005,
+        "genero": "Neo-Psychedelia"
+    },
+    {
+        "titulo": "Telegraph",
+        "artista": "Drake Bell",
+        "portada": "images/160.jpeg",
+        "year": 2005,
+        "genero": "Power Pop"
     }
 ]
-
-
-
-
-
-
-
