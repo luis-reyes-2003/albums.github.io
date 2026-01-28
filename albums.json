@@ -1118,5 +1118,13 @@
         "portada": "images/160.jpeg",
         "year": 2005,
         "genero": "Power Pop"
+    },
+    {
+        "titulo": "El Precio del Sudor",
+        "artista": "Rude Boys",
+        "portada": "images/161.jpeg",
+        "year": 2005,
+        "genero": "Ska"
     }
 ]
+
