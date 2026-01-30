@@ -1132,7 +1132,15 @@
         "portada": "images/162.jpeg",
         "year": 2005,
         "genero": "Latin Rap"
+    },
+    {
+        "titulo": "Pan",
+        "artista": "Luis Alberto Spinetta",
+        "portada": "images/163.jpeg",
+        "year": 2006,
+        "genero": "Jazz Rock"
     }
 ]
+
 
 
