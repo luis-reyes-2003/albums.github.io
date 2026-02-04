@@ -1160,8 +1160,23 @@
         "portada": "images/166.jpeg",
         "year": 2006,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "It's Only Time",
+        "artista": "Drake Bell",
+        "portada": "images/167.jpeg",
+        "year": 2006,
+        "genero": "Pop Rock"
+    },
+    {
+        "titulo": "The Good, the Bad & the Queen",
+        "artista": "The Good, the Bad & the Queen",
+        "portada": "images/168.jpeg",
+        "year": 2007,
+        "genero": "Indie Rock"
     }
 ]
+
 
 
 
