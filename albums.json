@@ -1174,8 +1174,16 @@
         "portada": "images/168.jpeg",
         "year": 2007,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "SINO",
+        "artista": "Café Tacvba",
+        "portada": "images/169.jpeg",
+        "year": 2007,
+        "genero": "Psychedelic Pop"
     }
 ]
+
 
 
 
