@@ -1181,8 +1181,16 @@
         "portada": "images/169.jpeg",
         "year": 2007,
         "genero": "Psychedelic Pop"
+    },
+    {
+        "titulo": "Eternamiente",
+        "artista": "Molotov",
+        "portada": "images/170.jpeg",
+        "year": 2007,
+        "genero": "Rap Rock"
     }
 ]
+
 
 
 
