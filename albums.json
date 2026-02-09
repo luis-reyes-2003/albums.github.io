@@ -1195,5 +1195,20 @@
         "portada": "images/171.jpeg",
         "year": 2008,
         "genero": "Power Pop"
+    },
+    {
+        "titulo": "Third",
+        "artista": "Portishead",
+        "portada": "images/172.jpeg",
+        "year": 2008,
+        "genero": "Trip Hop"
+    },
+    {
+        "titulo": "El Segundo Es Felino",
+        "artista": "Enjambre",
+        "portada": "images/173.jpeg",
+        "year": 2008,
+        "genero": "Indie Rock"
     }
 ]
+
