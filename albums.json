@@ -1209,6 +1209,14 @@
         "portada": "images/173.jpeg",
         "year": 2008,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Un Mañana",
+        "artista": "Luis Alberto Spinetta",
+        "portada": "images/174.jpeg",
+        "year": 2008,
+        "genero": "Jazz Rock"
     }
 ]
+
 
