@@ -1216,7 +1216,15 @@
         "portada": "images/174.jpeg",
         "year": 2008,
         "genero": "Jazz Rock"
+    },
+    {
+        "titulo": "Fuerza Natural",
+        "artista": "Gustavo Cerati",
+        "portada": "images/175.jpeg",
+        "year": 2009,
+        "genero": "Pop Rock"
     }
 ]
+
 
 
