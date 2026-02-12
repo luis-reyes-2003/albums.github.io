@@ -1223,8 +1223,16 @@
         "portada": "images/175.jpeg",
         "year": 2009,
         "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Plastic Beach",
+        "artista": "Gorillaz",
+        "portada": "images/176.jpeg",
+        "year": 2010,
+        "genero": "Electropop"
     }
 ]
+
 
 
 
