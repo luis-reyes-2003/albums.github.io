@@ -1230,8 +1230,16 @@
         "portada": "images/176.jpeg",
         "year": 2010,
         "genero": "Electropop"
+    },
+        {
+        "titulo": "Daltónico",
+        "artista": "Enjambre",
+        "portada": "images/177.jpeg",
+        "year": 2010,
+        "genero": "Indie Rock"
     }
 ]
+
 
 
 
