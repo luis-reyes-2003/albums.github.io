@@ -1231,16 +1231,25 @@
         "year": 2010,
         "genero": "Electropop"
     },
-        {
+    {
         "titulo": "Daltónico",
         "artista": "Enjambre",
         "portada": "images/177.jpeg",
         "year": 2010,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "The Fall",
+        "artista": "Gorillaz",
+        "portada": "images/179.jpeg",
+        "year": 2010,
+        "genero": "Electronic"
+    },
+    {
+        "titulo": "Tiembla la Tierra",
+        "artista": "Rude Boys",
+        "portada": "images/178.jpeg",
+        "year": 2010,
+        "genero": "Ska"
     }
 ]
-
-
-
-
-
