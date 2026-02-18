@@ -1251,5 +1251,13 @@
         "portada": "images/178.jpeg",
         "year": 2010,
         "genero": "Ska"
+    },
+    {
+        "titulo": "MTV Unplugged: Música de Fondo",
+        "artista": "Zoé",
+        "portada": "images/180.jpeg",
+        "year": 2011,
+        "genero": "Acoustic Rock"
     }
 ]
+
