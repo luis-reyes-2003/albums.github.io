@@ -1258,6 +1258,21 @@
         "portada": "images/180.jpeg",
         "year": 2011,
         "genero": "Acoustic Rock"
+    },
+    {
+        "titulo": "Rocket Juice & the Moon",
+        "artista": "Rocket Juice & the Moon",
+        "portada": "images/181.jpeg",
+        "year": 2012,
+        "genero": "Afrobeat"
+    },
+    {
+        "titulo": "Enjambre y Los Huéspedes del Orbe",
+        "artista": "Enjambre",
+        "portada": "images/182.jpeg",
+        "year": 2012,
+        "genero": "Indie Rock"
     }
 ]
+
 
