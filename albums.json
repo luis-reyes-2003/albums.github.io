@@ -1272,7 +1272,15 @@
         "portada": "images/182.jpeg",
         "year": 2012,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Mejores Tiempos",
+        "artista": "Rude Boys",
+        "portada": "images/183.jpeg",
+        "year": 2012,
+        "genero": "Ska"
     }
 ]
+
 
 
