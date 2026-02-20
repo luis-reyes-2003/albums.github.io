@@ -1279,8 +1279,16 @@
         "portada": "images/183.jpeg",
         "year": 2012,
         "genero": "Ska"
+    },
+    {
+        "titulo": "Prográmaton",
+        "artista": "Zoé",
+        "portada": "images/184.jpeg",
+        "year": 2013,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
