@@ -1286,8 +1286,30 @@
         "portada": "images/184.jpeg",
         "year": 2013,
         "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Everyday Robots",
+        "artista": "Damon Albarn",
+        "portada": "images/185.jpeg",
+        "year": 2014,
+        "genero": "Downtempo"
+    },
+    {
+        "titulo": "Agua Maldita",
+        "artista": "Molotov",
+        "portada": "images/186.jpeg",
+        "year": 2014,
+        "genero": "Rap Rock"
+    },
+    {
+        "titulo": "Proaño",
+        "artista": "Enjambre",
+        "portada": "images/187.jpeg",
+        "year": 2014,
+        "genero": "Neo-Psychedelia"
     }
 ]
+
 
 
 
