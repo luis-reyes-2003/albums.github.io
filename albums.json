@@ -1307,8 +1307,16 @@
         "portada": "images/187.jpeg",
         "year": 2014,
         "genero": "Neo-Psychedelia"
+    },
+    {
+        "titulo": "Hasta la Raíz",
+        "artista": "Natalia Lafourcade",
+        "portada": "images/188.jpeg",
+        "year": 2015,
+        "genero": "Folk Pop"
     }
 ]
+
 
 
 
