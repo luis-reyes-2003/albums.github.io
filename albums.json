@@ -1314,8 +1314,16 @@
         "portada": "images/188.jpeg",
         "year": 2015,
         "genero": "Folk Pop"
+    },
+    {
+        "titulo": "The Magic Whip",
+        "artista": "Blur",
+        "portada": "images/189.jpeg",
+        "year": 2015,
+        "genero": "Alternative Rock"
     }
 ]
+
 
 
 
