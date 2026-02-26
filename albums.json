@@ -1326,7 +1326,15 @@
         "titulo": "Una Vez Más",
         "artista": "Rude Boys",
         "portada": "images/190.jpeg",
-        "year": 2015,
+        "year": 2016,
         "genero": "Ska"
+    },
+    {
+        "titulo": "Humanz",
+        "artista": "Gorillaz",
+        "portada": "images/191.jpeg",
+        "year": 2017,
+        "genero": "Electropop"
     }
 ]
+
