@@ -1335,6 +1335,21 @@
         "portada": "images/191.jpeg",
         "year": 2017,
         "genero": "Electropop"
+    },
+    {
+        "titulo": "Season High",
+        "artista": "Little Dragon",
+        "portada": "images/192.jpeg",
+        "year": 2017,
+        "genero": "Electropop"
+    },
+    {
+        "titulo": "Imperfecto Extraño",
+        "artista": "Enjambre",
+        "portada": "images/193.jpeg",
+        "year": 2017,
+        "genero": "Indie Rock"
     }
 ]
+
 
