@@ -1349,7 +1349,36 @@
         "portada": "images/193.jpeg",
         "year": 2017,
         "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Magnético",
+        "artista": "Lucybell",
+        "portada": "images/194.jpeg",
+        "year": 2017,
+        "genero": "Alternative Rock"
+    },
+    {
+        "titulo": "Aztlán",
+        "artista": "Zoé",
+        "portada": "images/195.jpeg",
+        "year": 2018,
+        "genero": "Neo-Psychedelia"
+    },
+    {
+        "titulo": "The Now Now",
+        "artista": "Gorillaz",
+        "portada": "images/196.jpeg",
+        "year": 2018,
+        "genero": "Electropop"
+    },
+    {
+        "titulo": "Merrie Land",
+        "artista": "The Good, the Bad & the Queen",
+        "portada": "images/197.jpeg",
+        "year": 2018,
+        "genero": "Art Rock"
     }
 ]
+
 
 
