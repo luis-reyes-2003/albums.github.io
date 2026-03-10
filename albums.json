@@ -1377,8 +1377,33 @@
         "portada": "images/197.jpeg",
         "year": 2018,
         "genero": "Art Rock"
+    },
+    {
+        "titulo": "Titanic Rising",
+        "artista": "Weyes Blood",
+        "portada": "images/198.jpeg",
+        "year": 2019,
+        "genero": "Baroque Pop"
+    },
+    {
+        "titulo": "Fetch the Bolt Cutters",
+        "artista": "Fiona Apple",
+        "portada": "images/199.jpeg",
+        "year": 2020,
+        "genero": "Art Pop"
+    },
+    {
+        "titulo": "The New Abnormal",
+        "artista": "The Strokes",
+        "portada": "images/200.jpeg",
+        "year": 2020,
+        "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Alfredo",
+        "artista": "Freddie Gibbs/The Alchemist",
+        "portada": "images/201.jpeg",
+        "year": 2020,
+        "genero": "Gangsta Rap"
     }
 ]
-
-
-
