@@ -1405,5 +1405,20 @@
         "portada": "images/201.jpeg",
         "year": 2020,
         "genero": "Gangsta Rap"
+    },
+    {
+        "titulo": "Próximos Prójimos",
+        "artista": "Enjambre",
+        "portada": "images/202.jpeg",
+        "year": 2020,
+        "genero": "Indie Rock"
+    },
+    {
+        "titulo": "Song Machine, Season One",
+        "artista": "Gorillaz",
+        "portada": "images/203.jpeg",
+        "year": 2020,
+        "genero": "Synthpop"
     }
 ]
+
