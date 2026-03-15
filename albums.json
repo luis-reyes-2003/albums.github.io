@@ -1419,6 +1419,27 @@
         "portada": "images/203.jpeg",
         "year": 2020,
         "genero": "Synthpop"
+    },
+    {
+        "titulo": "McCartney III",
+        "artista": "Paul McCartney",
+        "portada": "images/204.jpeg",
+        "year": 2020,
+        "genero": "Pop Rock"
+    },
+    {
+        "titulo": "Sonidos de Karmática Resonancia",
+        "artista": "Zoé",
+        "portada": "images/205.jpeg",
+        "year": 2021,
+        "genero": "Art Pop"
+    },
+    {
+        "titulo": "Margaritas Podridas",
+        "artista": "Margaritas Podridas",
+        "portada": "images/206.jpeg",
+        "year": 2021,
+        "genero": "Shoegaze"
     }
 ]
 
