@@ -1440,6 +1440,26 @@
         "portada": "images/206.jpeg",
         "year": 2021,
         "genero": "Shoegaze"
+    },
+    {
+        "titulo": "The Nearer the Fountain, More Pure the Stream Flows",
+        "artista": "Damon Albarn",
+        "portada": "images/207.jpeg",
+        "year": 2021,
+        "genero": "Art Pop"
+    },
+    {
+        "titulo": "2000",
+        "artista": "Joey Bada$$",
+        "portada": "images/208.jpeg",
+        "year": 2022,
+        "genero": "Boom Bap"
+    },
+    {
+        "titulo": "The Elephant Man's Bones",
+        "artista": "Roc Marciano/The Alchemist",
+        "portada": "images/209.jpeg",
+        "year": 2022,
+        "genero": "Drumless"
     }
 ]
-
