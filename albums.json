@@ -1461,5 +1461,40 @@
         "portada": "images/209.jpeg",
         "year": 2022,
         "genero": "Drumless"
+    },
+    {
+        "titulo": "Tu Historia",
+        "artista": "Julieta Venegas",
+        "portada": "images/210.jpeg",
+        "year": 2022,
+        "genero": "Folk Pop"
+    },
+    {
+        "titulo": "Cracker Island",
+        "artista": "Gorillaz",
+        "portada": "images/211.jpeg",
+        "year": 2023,
+        "genero": "Synthpop"
+    },
+    {
+        "titulo": "Solo D'Lira",
+        "artista": "Molotov",
+        "portada": "images/212.jpeg",
+        "year": 2023,
+        "genero": "Rap Rock"
+    },
+    {
+        "titulo": "Slugs of Love",
+        "artista": "Little Dragon",
+        "portada": "images/213.jpeg",
+        "year": 2023,
+        "genero": "Indietronica"
+    },
+    {
+        "titulo": "The Ballad of Darren",
+        "artista": "Gorillaz",
+        "portada": "images/214.jpeg",
+        "year": 2023,
+        "genero": "Art Rock"
     }
 ]
