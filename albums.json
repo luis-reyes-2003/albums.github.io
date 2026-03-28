@@ -1496,5 +1496,40 @@
         "portada": "images/214.jpeg",
         "year": 2023,
         "genero": "Art Rock"
+    },
+    {
+        "titulo": "Noches de Salón",
+        "artista": "Enjambre",
+        "portada": "images/215.jpeg",
+        "year": 2023,
+        "genero": "Bolero"
+    },
+    {
+        "titulo": "Joker: Folie a Deux (Music From the Motion Picture)",
+        "artista": "Joaquin Phoenix/Lady Gaga",
+        "portada": "images/216.jpeg",
+        "year": 2024,
+        "genero": "Film Soundtrack"
+    },
+    {
+        "titulo": "BLUE LIPS",
+        "artista": "ScHoolboy Q",
+        "portada": "images/217.jpeg",
+        "year": 2024,
+        "genero": "Hardcore Hip Hop"
+    },
+    {
+        "titulo": "For You",
+        "artista": "Yukimi",
+        "portada": "images/218.jpeg",
+        "year": 2025,
+        "genero": "Neo-Soul"
+    },
+    {
+        "titulo": "Alfredo 2",
+        "artista": "Freddie Gibbs/The Alchemist",
+        "portada": "images/219.jpeg",
+        "year": 2025,
+        "genero": "Gangsta Rap"
     }
 ]
